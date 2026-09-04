@@ -19,15 +19,15 @@ const Hero = () => {
             </div>
           </div>
           <p className="font-body-lg text-on-surface-variant max-w-xl">
-            Architecting high-performance web applications with technical precision. 
-            Specializing in scalable React architectures and robust Node.js backend solutions.
+            Full Stack Developer with 3+ years of experience building production-grade applications serving 10,000+ active users. 
+            Specializing in scalable React architectures, robust Node.js backends, and mentoring the next generation of developers (550+ students trained).
           </p>
           <div className="flex flex-wrap gap-4">
             <a href="#projects" className="bg-primary-container text-on-primary-container px-8 py-4 rounded-lg font-bold flex items-center gap-2 hover:shadow-[0_0_20px_rgba(0,245,212,0.4)] transition-all cursor-pointer">
               View My Work
               <span className="material-symbols-outlined">arrow_forward</span>
             </a>
-            <a href="/Eslam_Saeed_CV.pdf" download className="border border-primary-fixed-dim text-primary-fixed-dim px-8 py-4 rounded-lg font-bold backdrop-blur-sm hover:bg-primary/10 transition-all cursor-pointer block">
+            <a href="/Eslam_Saeed_CV.pdf" download="Eslam-Saeed-FullStack-Developer-CV.pdf" className="border border-primary-fixed-dim text-primary-fixed-dim px-8 py-4 rounded-lg font-bold backdrop-blur-sm hover:bg-primary/10 transition-all cursor-pointer block">
               Download CV
             </a>
           </div>

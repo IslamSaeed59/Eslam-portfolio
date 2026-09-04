@@ -17,7 +17,7 @@ const Navigation = () => {
           <a className="text-on-surface-variant hover:text-primary transition-colors font-headline-sm text-headline-sm" href="#projects">Projects</a>
           <a className="text-on-surface-variant hover:text-primary transition-colors font-headline-sm text-headline-sm" href="#experience">Experience</a>
           <a className="text-on-surface-variant hover:text-primary transition-colors font-headline-sm text-headline-sm" href="#contact">Contact</a>
-          <a href="/Eslam_Saeed_CV.pdf" download className="bg-primary-container text-on-primary-container px-6 py-2 rounded-full font-bold hover:bg-primary transition-all active:scale-95 cursor-pointer inline-block text-center">
+          <a href="/Eslam_Saeed_CV.pdf" download="Eslam-Saeed-FullStack-Developer-CV.pdf" className="bg-primary-container text-on-primary-container px-6 py-2 rounded-full font-bold hover:bg-primary transition-all active:scale-95 cursor-pointer inline-block text-center">
             Resume
           </a>
         </div>
@@ -41,7 +41,7 @@ const Navigation = () => {
           <a className="text-on-surface hover:text-primary transition-colors font-headline-sm text-lg" href="#projects" onClick={() => setIsOpen(false)}>Projects</a>
           <a className="text-on-surface hover:text-primary transition-colors font-headline-sm text-lg" href="#experience" onClick={() => setIsOpen(false)}>Experience</a>
           <a className="text-on-surface hover:text-primary transition-colors font-headline-sm text-lg" href="#contact" onClick={() => setIsOpen(false)}>Contact</a>
-          <a href="/Eslam_Saeed_CV.pdf" download onClick={() => setIsOpen(false)} className="bg-primary-container text-on-primary-container px-6 py-3 mt-2 rounded-lg font-bold hover:bg-primary transition-all active:scale-95 text-center cursor-pointer">
+          <a href="/Eslam_Saeed_CV.pdf" download="Eslam-Saeed-FullStack-Developer-CV.pdf" onClick={() => setIsOpen(false)} className="bg-primary-container text-on-primary-container px-6 py-3 mt-2 rounded-lg font-bold hover:bg-primary transition-all active:scale-95 text-center cursor-pointer">
             Download Resume
           </a>
         </div>

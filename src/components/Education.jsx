@@ -53,10 +53,10 @@ const Education = () => {
             <div className="space-y-2">
               <div className="flex justify-between items-center text-sm">
                 <span className="font-code-snippet text-on-surface">English</span>
-                <span className="text-secondary font-bold">B1 (Intermediate)</span>
+                <span className="text-secondary font-bold">Professional Working Proficiency</span>
               </div>
               <div className="h-1 bg-surface-container-highest rounded-full overflow-hidden">
-                <div className="h-full bg-secondary w-[60%]"></div>
+                <div className="h-full bg-secondary w-[85%]"></div>
               </div>
             </div>
           </div>

@@ -33,7 +33,7 @@ const projectsData = [
       '/projects/Sheshinstor/Loading.png'
     ],
     stats: '2,000+ Customers',
-    techStack: ['React.js', 'Express.js', 'MySQL', 'Cloudinary'],
+    techStack: ['React.js', 'Express.js', 'MySQL', 'JWT', 'Socket.io', 'VPS'],
     categories: ['Full Stack', 'E-Commerce'],
     demoLink: 'https://sheshine.up.railway.app/',
     codeLink: '#'
@@ -42,7 +42,7 @@ const projectsData = [
     id: 3,
     title: 'Rently',
     shortDesc: 'Smart Rental Platform',
-    longDesc: 'A modern, full-stack rental marketplace platform designed to connect renters and owners. It features Smart KYC with automated Egyptian National ID verification using OCR, an AI chatbot powered by Gemini, real-time chat via WebSockets, and an advanced booking system.',
+    longDesc: 'A modern, full-stack rental marketplace platform designed to connect renters and owners. It features Smart KYC with automated Egyptian National ID verification using OCR, an AI chatbot powered by Gemini, real-time chat via WebSockets, and advanced database optimization reducing API response times by ~40%.',
     images: [
       '/projects/Rently/Login.png',
       '/projects/Rently/OTB.png',
@@ -51,7 +51,7 @@ const projectsData = [
       '/projects/Rently/Notifcations.png',
       '/projects/Rently/wallet.png'
     ],
-    stats: 'SaaS Model',
+    stats: '40% Faster APIs',
     techStack: ['React.js', 'Node.js', 'Socket.io', 'Gemini AI', 'OCR'],
     categories: ['SaaS', 'Full Stack'],
     demoLink: '#',
@@ -64,7 +64,7 @@ const projectsData = [
     longDesc: 'Full-stack e-commerce platform with an admin dashboard for managing products, responsive UI, and live chat features.',
     images: ['https://lh3.googleusercontent.com/aida-public/AB6AXuAidyl663d9p4b12-V2fuA6M3G-D_U_wGBEP459iGKevaeskkxBGlG_YqdWNbO3N0J1cN1bkJKy0qkfL4J7QiS-A-X-GzJdLOFhBNaZgRavfqljHHll8o8jCmYxEQH6HAI23GCl1RunkH-5ZM6IohsSnpq992McVf_Xjvg58plfb7DziiS0fqqiO85zrLFfo5D6BnQECBTioRpRId2zN5EZyxzt9fBwmI4ct6ZimQ5gwE_D8LJD_tWRCsRwX40ATUT8ruw-HZIoE4gO'],
     stats: 'Global Reach',
-    techStack: ['React.js', 'MongoDB', 'Cloudinary', 'Tailwind CSS'],
+    techStack: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS'],
     categories: ['E-Commerce'],
     demoLink: '#',
     codeLink: '#'
